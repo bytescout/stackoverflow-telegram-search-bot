@@ -1,0 +1,5 @@
+module.exports = {
+ 'TelegramToken': '<your_telegram_token_here>', // Telegram token
+ 'SOKey': "<your_so_key_here>", // Stackexchange api token
+ 'SOSecret': "<your_so_secret_here>" // Stackexchange api secret
+}
